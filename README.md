@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratikabu/) or follow me on [@pratikabu](https://twitter.com/pratikabu).
+I love the thrill of e-Commerce and currenlty working as [certified](https://www.youracclaim.com/badges/b0d86fa0-11b0-4a32-a7b6-fb487c1465b5) SAP Commerce Cloud (hybris) SME in Accenture.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratikabu/) or on [Twitter](https://twitter.com/pratikabu).
+
+I do like contributing to Open-Source, below are some of my public work.
 
 <!--
 **pratikabu/pratikabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
