@@ -2,9 +2,7 @@
 
 I love the thrill of e-Commerce and currenlty working as SAP Commerce Cloud (hybris) consultant.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratikabu/) or on [Twitter](https://twitter.com/pratikabu).
-
-I do like contributing to Open-Source, below are some of my public work.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pratikabu/) or on [Twitter](https://twitter.com/pratikabu).
 
 <!--
 **pratikabu/pratikabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
